@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "406413231047",
+    "firebase_url": "https://simplysiam-83b8f.firebaseio.com",
+    "project_id": "simplysiam-83b8f",
+    "storage_bucket": "simplysiam-83b8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406413231047:android:b44462049cc10e1d",
+        "android_client_info": {
+          "package_name": "com.example.s528798.simplysiamfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406413231047-h5uj0l9eri5mcb6flv7jlus8qtadnuo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeNZVsvue1O0t1TBulr7_7JmyGX92Kq00"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
